@@ -1,0 +1,5 @@
+<resources>
+  <string name="app_name">AccepticTest2</string>
+  <string name="task_finished">Tasks have been executing:</string>
+  <string name="execute">Execute</string>
+</resources>
